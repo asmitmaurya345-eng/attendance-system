@@ -1,0 +1,6 @@
+{
+  "name": "SmartFace Attendance Management",
+  "description": "Enterprise face-recognition attendance management system with ESP32-CAM device registry, event-based tracking, schedule engine, and auditable logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
